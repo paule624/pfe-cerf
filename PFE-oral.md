@@ -6,12 +6,12 @@
 
 ## Point choisi pour l'oral
 
-**"La chasse au cerf comme rituel d'affirmation du pouvoir nobiliaire à la fin du Moyen Âge"**
+**"Le cerf dans l'héraldique nobiliaire : d'un symbole de pouvoir à un marqueur dynastique (XIVe-XVe siècle)"**
 
-Ce point est extrait de la partie II de la revue de vulgarisation. Il est suffisamment précis pour être développé en 20 minutes, très riche en sources concrètes (Gaston Phébus, Henri de Ferrières), et offre de belles images pour le PowerPoint (enluminures du *Livre de chasse*, BnF Ms. fr. 616).
+Ce point est extrait des parties I et III de la revue de vulgarisation. Il croise la construction symbolique du cerf (héritage religieux, culturel et cynégétique) avec sa fixation dans le système héraldique comme signe d'identité familiale transmissible. L'ouverture finale porte sur la généalogie successorale.
 
 **Pourquoi ce point ?**
-C'est le plus concret et le plus démontrable en 20 minutes. Le jury peut voir les sources, suivre le raisonnement, et le lien avec la problématique générale est immédiat. De plus, Gaston Phébus est une source primaire exceptionnelle — la citer directement impressionne.
+Le cerf héraldique est un objet visuel, concret et riche en illustrations pour le PowerPoint (Diptyque de Wilton, blasons, Chaudron de Gundestrup). Il permet de relier directement le Moyen Âge au métier de généalogiste successoral, puisque lire un blason avec un cerf, c'est déchiffrer l'identité et les valeurs d'une famille noble — un geste que le généalogiste accomplit encore aujourd'hui.
 
 ---
 
@@ -20,109 +20,104 @@ C'est le plus concret et le plus démontrable en 20 minutes. Le jury peut voir l
 ### Introduction — 4 minutes
 
 **Slide 1 — Image d'accroche :**
-Enluminure du *Livre de chasse* de Gaston Phébus (BnF, Ms. fr. 616) : scène de chasse au cerf avec cavaliers, chiens et sonneurs de cor.
+Le Diptyque de Wilton (~1395-1399), conservé à la National Gallery de Londres. On y voit le roi Richard II d'Angleterre, agenouillé devant la Vierge et l'Enfant, accompagné de trois saints. Sur le revers du panneau : un cerf blanc couché, portant une couronne d'or autour du cou et un collier de genêt. Ce cerf est l'emblème personnel de Richard II.
 
 **Phrase d'accroche à dire :**
-*"En 1387, Gaston III de Foix, l'un des seigneurs les plus puissants de France, prend la plume pour rédiger le traité de chasse le plus complet de son époque. Il y écrit que le cerf est 'la beste par excellence' — l'animal qui mérite le plus d'honneur à celui qui le chasse. Mais pourquoi le cerf ? Et pourquoi un si grand seigneur juge-t-il nécessaire d'écrire ce traité ?"*
+*"Vers 1395, un artiste anonyme peint pour le roi Richard II d'Angleterre l'un des chefs-d'œuvre de la peinture médiévale anglaise : le Diptyque de Wilton. Sur le revers de ce panneau, un cerf blanc repose, couronné d'or. Ce n'est pas une scène de chasse, ni une illustration de bestiaire. C'est un blason vivant — le signe par lequel un roi dit au monde qui il est. Mais pourquoi un cerf ? Que dit cet animal quand il quitte la forêt pour entrer dans un blason ?"*
 
 **Présenter le contexte :**
-À la fin du Moyen Âge, la chasse au cerf n'est pas un simple loisir. C'est un rituel codifié, hiérarchisé, chargé de significations sociales et politiques. Elle est réservée à la noblesse par le droit et organisée selon des règles précises qui reproduisent et renforcent l'ordre social.
+À la fin du Moyen Âge, les armoiries sont partout : sur les boucliers, les sceaux, les façades des châteaux, les vêtements de cérémonie. Elles fixent une identité familiale visible, héréditaire, transmissible. Parmi les animaux qui peuplent ces blasons — lions, aigles, sangliers —, le cerf occupe une place singulière. Il arrive dans l'héraldique chargé de significations religieuses, culturelles et cynégétiques qui en font un symbole de pouvoir particulièrement dense.
 
 **Problématique à énoncer clairement :**
-*En quoi la chasse au cerf constitue-t-elle, à la fin du Moyen Âge, un rituel d'affirmation et de représentation du pouvoir nobiliaire ?*
+*En quoi le cerf héraldique traduit-il l'identité et les valeurs du pouvoir nobiliaire à la fin du Moyen Âge ?*
 
 **Annonce du plan (dire ces mots) :**
-*"Nous verrons dans un premier temps que la chasse au cerf est une pratique juridiquement exclusive, réservée à la noblesse. Dans un deuxième temps, nous analyserons le rituel de la curée comme miroir de la hiérarchie sociale. Enfin, nous verrons comment la forêt seigneuriale devient, à travers la chasse, un espace politique du pouvoir."*
+*"Nous verrons dans un premier temps quelles sont les racines symboliques qui font du cerf un animal de pouvoir avant même qu'il n'entre dans les blasons. Dans un deuxième temps, nous analyserons la place du cerf dans le système héraldique médiéval. Enfin, nous verrons comment le cerf héraldique devient un marqueur dynastique, un signe d'identité familiale transmis de génération en génération."*
 
 ---
 
-### I — Une pratique juridiquement réservée à la noblesse — 5 minutes
+### I — Les racines symboliques du cerf : un animal de pouvoir — 5 minutes
 
-**Slide 2 : portrait ou sceau de Gaston Phébus**
-*(Disponible sur Wikimedia Commons ou Gallica)*
+**Slide 2 : Enluminure de la conversion de saint Hubert (ou saint Eustache)**
+*(Disponible sur Wikimedia Commons — nombreuses versions médiévales)*
 
 **Idée principale :**
-La chasse au cerf est, au XIVe-XVe siècle, un droit exclusif de la noblesse. Elle est encadrée par des ordonnances royales qui punissent sévèrement le braconnage. Chasser le cerf, c'est affirmer son appartenance à l'élite.
+Le cerf n'entre pas dans les blasons par hasard. Il y arrive chargé de trois héritages symboliques qui en font un animal de pouvoir : un héritage religieux, un héritage pré-chrétien et un héritage moral issu des bestiaires.
 
 **Développement — 3 points à enchaîner :**
 
-*Point 1 — La hiérarchie des chasses :*
-Les nobles distinguent strictement les formes de chasse. La vénerie (chasse à courre à cheval avec meute) est la plus noble. La chasse au vol (fauconnerie) est également aristocratique. En revanche, les chasses aux pièges, collets et filets sont méprisées comme des *"chasses de coquins"* — sans courage, sans endurance, sans honneur. Cette hiérarchie des techniques est une hiérarchie des hommes.
+*Point 1 — L'héritage religieux : saint Hubert et saint Eustache :*
+Dans la tradition hagiographique médiévale, le cerf est le vecteur d'une apparition divine. Saint Eustache, général romain et chasseur, voit le Christ apparaître entre les bois d'un cerf qu'il poursuit. Selon Alain Bourreau, dans *La légende dorée, le système narratif de Jacques de Voragine* (1984), cette vision transforme le cerf en messager du sacré. Ce qui est remarquable, c'est que cette vision s'adresse spécifiquement à un noble chasseur : le cerf ne parle pas à n'importe qui. Il parle à un homme de rang, un homme d'armes, et il le convertit. Le même récit se retrouve avec saint Hubert, patron des chasseurs. Le cerf devient ainsi l'animal qui relie la noblesse guerrière au divin.
 
-*Point 2 — Le cerf = chasse royale :*
-Dès le XIVe siècle, la chasse au cerf devient spécifiquement la chasse royale. Souverains et grands feudataires se réservent ce gibier et s'approprient les forêts pour en garantir la présence. Le comte de Forez, par exemple, crée une garenne de cerfs et de biches — une réserve privée. Posséder du cerf, c'est posséder une forêt ; posséder une forêt, c'est exercer une souveraineté territoriale.
+*Point 2 — L'héritage pré-chrétien : Cernunnos :*
 
-*Point 3 — Gaston Phébus comme témoin :*
-**Citation directe à lire :** *"Le cerf est assez commune bête, aussi n'est-il pas nécessaire de dire comment il est fait car il y a peu de gens qui n'en aient vu."* (Gaston Phébus, *Livre de chasse*, ~1387)
-→ Gaston Phébus écrit pour une aristocratie qui connaît déjà le cerf parce qu'elle le chasse. Il s'adresse à ses pairs. Ce traité est lui-même un signe de distinction : un seigneur qui sait *écrire* sur la chasse maîtrise non seulement la pratique mais aussi sa culture.
+**Slide 3 : Chaudron de Gundestrup — détail du personnage de Cernunnos**
+*(Nationalmuseet de Copenhague / Wikimedia Commons)*
 
-**Slide 3 : enluminure "départ pour la chasse" (Ms. fr. 616)**
+Mais le cerf comme figure de pouvoir est bien antérieur au christianisme. Chez les Gaulois, Cernunnos est un dieu aux bois de cerf, représenté sur le célèbre Chaudron de Gundestrup (Ier siècle av. J.-C.), tenant un torque — symbole d'autorité — et un serpent. André Pelletier (*"Cernunnos"*, 1993) montre que cette divinité reste indigène : elle n'est jamais assimilée aux dieux romains après la conquête. Plus remarquable encore, Anne Lombard-Jourdan, dans *Aux origines du carnaval* (2005), écrit que *"Cernunnos, divinité ancestrale de tous les Gaulois, devint l'aïeul des dynasties successives qui régnèrent sans interruption sur le territoire de la France"*. Le cerf est donc, dès l'Antiquité, un animal dynastique — un ancêtre symbolique du pouvoir.
 
-**Transition :** *"Cette exclusivité juridique et sociale se traduit ensuite dans un rituel précis au moment de la mise à mort : la curée."*
+*Point 3 — L'héritage des bestiaires : le cerf vertueux :*
+Enfin, les bestiaires médiévaux — ces encyclopédies morales du monde animal — donnent au cerf une valeur éthique. Dans la tradition du *Physiologus* et des bestiaires comme celui de Pierre de Beauvais, le cerf est celui qui tue le serpent, c'est-à-dire celui qui vainc le mal. Le cerf représente le Christ combattant le diable. Par extension, chasser le cerf est une activité hautement morale : c'est un remède contre l'oisiveté, un exercice qui empêche les mauvaises pensées et assure le salut de celui qui le pratique.
+
+**Transition :** *"Le cerf arrive donc dans le système héraldique chargé de cette triple légitimité : religieuse, ancestrale et morale. Voyons maintenant comment il s'inscrit concrètement dans les blasons."*
 
 ---
 
-### II — La curée : la mort du cerf comme miroir de la société — 7 minutes
+### II — Le cerf dans le système héraldique médiéval — 7 minutes
 
-**Slide 4 : enluminure de la curée ou de la mise à mort (Ms. fr. 616)**
+**Slide 4 : Exemples de blasons portant le cerf**
+*(Plusieurs blasons côte à côte — tirés de Marillier ou de Wikimedia Commons)*
 
 **Idée principale :**
-La mort du cerf n'est pas simplement la fin de la chasse. C'est un rituel codifié qui matérialise et renforce la hiérarchie sociale. La manière dont le cerf est découpé et dont ses parties sont distribuées dit l'ordre du monde.
+Le cerf est un *meuble* héraldique — c'est-à-dire une figure qui entre dans la composition d'un blason. Mais il n'y entre pas n'importe comment : il obéit aux règles du système héraldique, et les formes qu'il prend disent des choses précises sur celui qui le porte.
 
 **Développement — 3 points :**
 
-*Point 1 — La source : Henri de Ferrières :*
-Henri de Ferrières, dans *Les Livres du Roy Modus et de la Royne Ratio* (~1354-1376), décrit en détail le rituel de la curée. Ce texte est exceptionnel : il prend la forme d'un dialogue allégorique entre *Roy Modus* (la Méthode) et *Royne Ratio* (la Raison), ce qui signifie que la chasse est présentée comme un *savoir* — un ensemble de règles rationnelles qu'un noble doit maîtriser.
+*Point 1 — La naissance des armoiries et l'encellulement :*
+Robert Fossier a montré que la société médiévale connaît, entre le XIe et le XIIIe siècle, un phénomène qu'il appelle *encellulement* : les individus se fixent dans des cadres — la paroisse, le village, le lignage. Les armoiries sont le fruit de cet encellulement. Elles naissent du besoin de se distinguer dans les tournois, sur les sceaux, à la guerre — mais aussi du besoin de fixer une identité familiale stable et transmissible. C'est dans ce contexte que le cerf entre dans les blasons : il n'est pas simplement un dessin, il est un programme. Choisir le cerf, c'est dire d'où l'on vient et ce que l'on revendique.
 
-*Point 2 — Le rituel de la curée :*
-Après la mise à mort du cerf, le corps de l'animal est découpé selon un ordre strict. Les meilleurs morceaux (les *"droits"* du cerf : le cœur, le foie, le filet) reviennent au seigneur ou au roi. Les parts suivantes vont aux chevaliers, puis aux serviteurs, enfin aux chiens. Chaque participant reçoit une part conforme à son rang. La distribution est publique, visible, ritualisée.
+*Point 2 — Les formes héraldiques du cerf :*
 
-**Slide 5 : schéma simple (à créer) — qui reçoit quoi lors de la curée**
-*(Faire un schéma avec colonnes : rang / part du cerf reçue)*
+**Slide 5 : Le cerf ailé — représentation héraldique**
 
-*Point 3 — La signification sociale :*
-Ce rituel a une double fonction. D'abord, il *célèbre* la hiérarchie en la rendant concrète et visible : chaque homme sait qui il est parce qu'il reçoit la part qui lui revient. Ensuite, il *crée du lien* : le seigneur qui distribue généreusement accomplit un acte politique. La générosité lors de la curée est une forme d'exercice du pouvoir, analogue à celle du banquet ou de la distribution des terres.
+Le cerf héraldique se décline en plusieurs postures codifiées : passant (marchant), rampant (dressé sur les pattes arrière), couché. Mais la forme la plus remarquable est le **cerf ailé**. À la manière du griffon ou du cheval Pégase, le cerf ailé combine la noblesse terrestre de l'animal avec une dimension d'élévation spirituelle. Cette figure est attestée dans l'héraldique française, notamment comme emblème royal sous Charles VI. Le cerf ailé ajoute au symbole de pouvoir une dimension surnaturelle : le noble qui porte ce blason ne revendique pas seulement une puissance terrestre, mais une forme de grâce.
 
-**Comparaison à proposer au jury si question :**
-La curée fonctionne comme un banquet de chasse en miniature. Elle rejoue, dans l'espace de la forêt, la même logique de représentation et de redistribution que le festin dans la grande salle du château.
+*Point 3 — Le cerf royal : de Richard II à Charles VI :*
+Le cas le plus frappant de cerf héraldique est celui de Richard II d'Angleterre, dont nous avons vu le Diptyque de Wilton en introduction. Le cerf blanc de Richard II est un *badge* personnel — un signe d'identité que le roi fait porter à ses partisans, broder sur les livrées de ses serviteurs, graver sur ses bâtiments. De l'autre côté de la Manche, Charles VI de France adopte le cerf ailé comme emblème. Dans les deux cas, le cerf passe du statut de symbole nobiliaire à celui de symbole royal : il dit non seulement la noblesse, mais la souveraineté.
 
-**À citer si possible :** *"Ensuite on court le cerf deux fois le jour, quelquefois plus, on chasse une fois avec les toiles, et puis on change de gîte"* — description de la cour des derniers Valois (cité par Meiss-Even, *Histoire et sociétés rurales*, 2012).
-
-**Transition :** *"Mais ce rituel ne prend son sens complet qu'en lien avec l'espace où il se déroule : la forêt seigneuriale, qui est elle-même un espace de pouvoir."*
+**Transition :** *"Mais un blason n'est pas seulement le signe d'un individu. Il est le signe d'une lignée. Et c'est là que le cerf héraldique prend toute sa portée : il se transmet."*
 
 ---
 
-### III — La forêt seigneuriale, territoire politique du noble — 4 minutes
+### III — Du blason à la lignée : le cerf comme marqueur dynastique — 4 minutes
 
-**Slide 6 : carte des forêts royales médiévales OU enluminure de forêt (Ms. fr. 616)**
+**Slide 6 : Sceau médiéval avec cerf OU tapisserie avec motif cervidé**
+*(Wikimedia Commons / Archives nationales)*
 
 **Idée principale :**
-Le cerf vit dans la forêt seigneuriale. Cette forêt n'est pas simplement un espace naturel : c'est un territoire juridique, économique et symbolique. Contrôler une forêt avec du gibier, c'est exercer une souveraineté sur un espace et sur les hommes qui y vivent.
+Le blason est héréditaire. Quand une famille choisit le cerf comme emblème, elle inscrit toute sa descendance dans une symbolique de pouvoir précise. Le cerf passe du vivant (la forêt, la chasse) à l'objet (le sceau, la tapisserie, la pierre sculptée) et de l'objet à la mémoire familiale.
 
 **Développement — 2 points :**
 
-*Point 1 — La forêt comme espace juridique :*
-Les ordonnances royales des XIVe-XVe siècles réservent certaines forêts au roi seul. Les *capitaineries royales* organisent la surveillance du gibier et punissent le braconnage. Chasser dans la forêt d'un seigneur sans sa permission, c'est attenter à son autorité. Le droit de chasse est un attribut de la souveraineté : il dit qui commande sur ce territoire.
+*Point 1 — La diffusion du cerf dans les objets de prestige :*
+Le cerf ne reste pas sur l'écu. Il se retrouve sur les sceaux, qui authentifient les actes juridiques et donc les droits de propriété. Il apparaît sur les tapisseries qui ornent les grandes salles des châteaux — ces tapisseries ne sont pas simplement décoratives, elles affichent l'identité du lignage à quiconque entre dans la maison. On le trouve aussi sur des objets liturgiques, des dalles funéraires, des clés de voûte d'églises fondées par des familles nobles. Chaque support est une occasion de réaffirmer l'identité familiale.
 
-*Point 2 — La forêt transformée par la chasse :*
-Robert Delort (*Les animaux ont une histoire*, Seuil, 1984) montre que la présence du cerf dans une forêt médiévale est elle-même un signe de richesse et de bonne gestion seigneuriale. La vénerie du cerf a une influence directe sur le paysage forestier : pour conserver les cerfs, les seigneurs protègent les futaies, maintiennent des sous-bois clairs, régulent les coupes. Le cerf façonne littéralement le paysage médiéval.
-
-**Phrase de conclusion de cette partie :**
-*"La forêt n'est donc pas le cadre neutre de la chasse : elle en est une composante symbolique essentielle. Un seigneur sans forêt ne peut pas chasser le cerf, et un seigneur qui ne chasse pas le cerf n'accomplit pas les obligations de son rang."*
+*Point 2 — Lire un blason, lire une identité familiale :*
+Un cerf dans un blason n'est pas un ornement. C'est une déclaration. Il dit : *"Nous descendons de chasseurs nobles. Nous avons des forêts. Nous revendiquons une noblesse ancienne, liée à la terre, à la chasse et au sacré."* Le blason fonctionne comme une archive visuelle de l'identité familiale — et le cerf y concentre toute la symbolique du pouvoir nobiliaire médiéval : le lien au divin (saint Hubert), le lien à la terre (la forêt, la chasse), le lien au rang (la vénerie comme pratique exclusive de la noblesse).
 
 ---
 
 ### Conclusion — 2 minutes
 
-**Slide 7 : cerf blanc de Charles VI OU Diptyque de Wilton (Richard II d'Angleterre, ~1395-1399)**
+**Slide 7 : Blason avec cerf — image forte pour conclure**
 
 **Synthèse en 3 phrases :**
-La chasse au cerf à la fin du Moyen Âge est un rituel total qui engage simultanément le droit (l'exclusivité nobiliaire), le corps social (la curée comme miroir de la hiérarchie), et le territoire (la forêt comme espace de souveraineté). Elle est à la fois pratique et symbole, réalité vécue et représentation du pouvoir.
+Le cerf héraldique est le point de convergence de trois héritages : un héritage religieux qui en fait un messager du divin, un héritage culturel qui en fait un ancêtre symbolique du pouvoir, et un héritage cynégétique qui en fait le gibier le plus noble et le plus valorisant. Quand il entre dans un blason, le cerf cristallise ces trois dimensions en un signe visuel, héréditaire, transmissible. Il ne dit pas seulement la noblesse de celui qui le porte : il inscrit toute une lignée dans une revendication de pouvoir.
 
 **Ouverture — dire ces mots :**
-*"Mais ce rôle symbolique du cerf ne s'arrête pas à la forêt. Il se prolonge dans les blasons, dans les sceaux, dans les objets de prestige. Le cerf passe de la forêt au blason : de rituel de chasse, il devient emblème familial transmis de génération en génération. C'est précisément ce qui intéresse le généalogiste successoral : lire un blason avec un cerf, c'est déchiffrer l'identité et les valeurs d'une famille noble du XIVe siècle."*
+*"Et c'est précisément cette permanence du blason qui intéresse le généalogiste successoral aujourd'hui. Quand un généalogiste retrouve un cerf dans les armoiries d'une famille du XIVe siècle, il ne lit pas simplement un dessin : il lit un programme, une intention, une revendication d'identité qui traverse les générations. Le blason est une archive visuelle du lignage — et le cerf y occupe une place particulière, parce qu'il porte en lui toute la symbolique du pouvoir nobiliaire médiéval. D'ailleurs, cette présence animale dans la généalogie n'a rien d'anecdotique : des cabinets de généalogie successorale comme Coutot-Roehrig, dont l'activité consiste à retrouver les héritiers de successions en déshérence, manipulent quotidiennement ces archives où les blasons, les sceaux et les symboles héraldiques sont des indices concrets pour reconstituer les filiations. Le cerf que l'on voit dans un blason du XVe siècle n'est pas une curiosité historique : c'est un outil de travail pour le généalogiste."*
 
-**Slide 8 (optionnel) : blason avec cerf**
+**Slide 8 (optionnel) : Logo ou façade Coutot-Roehrig avec représentations animales**
 
 ---
 
@@ -130,29 +125,29 @@ La chasse au cerf à la fin du Moyen Âge est un rituel total qui engage simulta
 
 | N° | Contenu recommandé | Où trouver l'image |
 |----|---|---|
-| 1 | Scène de chasse au cerf — enluminure Ms. fr. 616 | Gallica (BnF) — libre de droits |
-| 2 | Portrait ou sceau de Gaston Phébus | Wikimedia Commons |
-| 3 | "Départ pour la chasse" — enluminure Ms. fr. 616 | Gallica (BnF) |
-| 4 | La curée ou la mise à mort — enluminure Ms. fr. 616 | Gallica (BnF) |
-| 5 | Schéma : la distribution lors de la curée | À créer (simple tableau) |
-| 6 | Forêt médiévale enluminée OU carte forêts royales | Gallica (BnF) / Wikimedia |
-| 7 | Cerf blanc de Charles VI OU Diptyque de Wilton | Wikimedia Commons |
-| 8 (opt.) | Blason avec cerf | Wikimedia Commons / Marillier |
+| 1 | Diptyque de Wilton — le cerf blanc de Richard II | National Gallery / Wikimedia Commons |
+| 2 | Conversion de saint Hubert — enluminure hagiographique | Wikimedia Commons |
+| 3 | Chaudron de Gundestrup — Cernunnos | Nationalmuseet Copenhague / Wikimedia |
+| 4 | Exemples de blasons avec cerf (plusieurs côte à côte) | Marillier / Wikimedia Commons |
+| 5 | Cerf ailé — représentation héraldique (Charles VI) | Wikimedia Commons / Gallica |
+| 6 | Sceau médiéval ou tapisserie avec cerf | Wikimedia / Archives nationales |
+| 7 | Blason avec cerf — image de conclusion | Wikimedia Commons |
+| 8 (opt.) | Coutot-Roehrig — lien avec la généalogie successorale | Site Coutot-Roehrig |
 
-**Conseil pratique :** toutes les enluminures du Ms. fr. 616 sont en haute définition sur Gallica et libres de droits pour usage académique. Chercher "Gaston Phébus livre de chasse" sur gallica.bnf.fr.
+**Conseil pratique :** Le Diptyque de Wilton est en très haute résolution sur le site de la National Gallery (libre pour usage académique). Les blasons sont abondants sur Wikimedia Commons en cherchant "deer heraldry" ou "cerf héraldique".
 
 ---
 
 ## Conseils pour la présentation orale
 
-**Ne pas lire ses notes.** Regarder le jury. Connaître le plan par cœur (3 parties, 2-3 points chacune).
+**Ne pas lire ses notes.** Regarder le jury. Connaître le plan par cœur (3 parties, 3-3-2 points).
 
 **Tenir le timing :**
-- Introduction : ne pas dépasser 4 minutes — le jury veut entrer dans le vif.
-- Partie II (curée) : c'est le cœur, prenez le temps de bien expliquer.
-- Conclusion : ne pas bâcler — l'ouverture sur le blason/généalogie est l'argument qui relie à votre sujet global.
+- Introduction : ne pas dépasser 4 minutes — poser le Diptyque de Wilton et la problématique.
+- Partie II (héraldique) : c'est le cœur, 7 minutes. Bien expliquer l'encellulement de Fossier (concept clé) et montrer les formes du cerf héraldique.
+- Conclusion : ne pas bâcler — l'ouverture sur la généalogie successorale et Coutot-Roehrig est l'argument qui relie le sujet médiéval au monde professionnel contemporain.
 
-**Citer vos sources à l'oral :** *"Comme l'écrit Gaston Phébus en 1387..."* ou *"Selon Henri de Ferrières dans le Roy Modus..."* — ça montre que vous maîtrisez vos sources et pas seulement un résumé.
+**Citer vos sources à l'oral :** *"Comme l'écrit Anne Lombard-Jourdan en 2005..."* ou *"Selon Alain Bourreau, dans son analyse de la Légende dorée..."* — citer nommément montre la maîtrise des sources.
 
 **Sur le PowerPoint :**
 - Une image par slide, pas de texte en blocs. Le texte est dans votre discours, pas sur l'écran.
@@ -162,17 +157,17 @@ La chasse au cerf à la fin du Moyen Âge est un rituel total qui engage simulta
 
 ## Anticiper les questions du jury
 
-**Q1 : Pourquoi le cerf plutôt qu'un autre animal (sanglier, loup, chevreuil) ?**
-→ Parce que le cerf cumule deux légitimités : une légitimité religieuse (animal christique dans les bestiaires, saint Hubert et saint Eustache) ET une valeur cynégétique (animal difficile et dangereux à chasser, donc valorisant pour le chasseur). Le sanglier est certes dangereux, mais il n'a pas la dimension christologique du cerf. Le chevreuil est trop petit, trop facile. Seul le cerf réunit noblesse symbolique et défi cynégétique.
+**Q1 : Pourquoi le cerf plutôt qu'un autre animal dans les blasons (lion, aigle, sanglier) ?**
+→ Le lion et l'aigle sont plus fréquents, mais plus génériques — ils disent la puissance sans spécifier sa nature. Le cerf est plus précis : il dit la noblesse terrienne, la forêt, la chasse, le lien au sacré (saint Hubert). Il cumule une légitimité religieuse (animal christique dans les bestiaires, saint Hubert et saint Eustache) ET une valeur cynégétique (animal difficile à chasser, donc valorisant). Le sanglier est dangereux mais n'a pas la dimension christologique. Le cerf réunit noblesse symbolique et défi cynégétique dans un seul animal.
 
-**Q2 : La chasse est-elle vraiment exclusivement réservée à la noblesse, ou y a-t-il des exceptions ?**
-→ En théorie, droit exclusif encadré par les ordonnances. En pratique, le braconnage existe et est endémique — mais il est réprimé avec une sévérité qui dit précisément la valeur symbolique de l'exclusivité. Il existe aussi des exceptions institutionnelles : certaines abbayes ont des droits de chasse accordés par lettres royales (ex. Saint-Corneille de Compiègne). Ces exceptions confirment la règle : elles sont des privilèges accordés par le roi, donc elles reconnaissent que la chasse est d'abord un droit royal délégué.
+**Q2 : Le cerf ailé existe-t-il vraiment dans des blasons attestés, ou est-ce une figure rare ?**
+→ Le cerf ailé est attesté, notamment comme emblème royal sous Charles VI. Il n'est pas courant comme le lion ou l'aigle, mais c'est précisément sa rareté qui en fait un choix distinctif. Bernard Marillier, dans *Le cerf, symboles, mythes, traditions, héraldique*, en recense plusieurs occurrences.
 
-**Q3 : En quoi votre sujet est-il utile pour un généalogiste successoral aujourd'hui ?**
-→ Le blason est une source pour le généalogiste. Savoir qu'une famille noble du XIVe siècle a choisi le cerf comme emblème permet d'identifier ses valeurs, ses alliances, et sa volonté d'inscrire son identité dans une symbolique de pouvoir précise. Lire un blason, c'est lire une intention : le cerf dit *"nous sommes nobles, nous chassons, nous avons une forêt, nous avons du rang"*. C'est une archive visuelle de l'identité familiale.
+**Q3 : Quel est le lien concret entre un blason médiéval et le travail d'un généalogiste successoral aujourd'hui ?**
+→ Le généalogiste successoral recherche les héritiers de successions en déshérence — des personnes qui ignorent qu'elles héritent. Pour reconstituer les filiations anciennes, il travaille sur des archives où les blasons, les sceaux et les mentions héraldiques sont des indices d'identification. Un cerf dans un blason permet d'identifier une famille, de la rattacher à un lignage, de confirmer une filiation. Des cabinets comme Coutot-Roehrig, qui est le principal acteur français de la généalogie successorale, manipulent ces archives au quotidien. Les représentations animales y sont omniprésentes — elles ne sont pas décoratives, elles sont fonctionnelles.
 
-**Q4 : Quelles sont les limites de votre approche ?**
-→ La principale limite est la dispersion des sources : il n'existe pas de monographie consacrée spécifiquement au cerf comme symbole nobiliaire. Il a fallu croiser des champs historiographiques distincts, ce qui implique un risque de surinterprétation. De plus, les sources primaires (traités cynégétiques, bestiaires, blasons) sont essentiellement produites par et pour les élites — elles ne disent rien de la perception paysanne du cerf, qui est probablement très différente.
+**Q4 : N'y a-t-il pas un risque de surinterprétation quand on "lit" un blason ?**
+→ Si, et c'est une limite importante. Le blason obéit à des conventions héraldiques strictes, mais les motivations du choix d'un meuble (le cerf) ne sont pas toujours documentées. On reconstruit un sens probable à partir du contexte symbolique, mais on ne peut pas toujours prouver l'intention du commanditaire. C'est pourquoi le croisement des sources est indispensable : il faut combiner l'analyse héraldique avec les sources textuelles (traités de chasse, bestiaires, hagiographies) pour construire une interprétation solide.
 
-**Q5 : Votre sujet s'arrête au XVe siècle — qu'est-ce qui change après ?**
-→ À partir du XVIe siècle, avec la Renaissance et les guerres d'Italie, la culture nobiliaire évolue. La chasse reste importante mais elle est concurrencée par d'autres formes de représentation du pouvoir (portraits, arts, littérature de cour). Le cerf dans les blasons persiste, mais la chasse perd progressivement son rôle central de rituel d'affirmation sociale au profit d'autres pratiques. La rupture est aussi juridique : les ordonnances forestières de Colbert (1669) réorganisent profondément les droits de chasse.
+**Q5 : Quelles sont les limites de vos sources ?**
+→ La principale limite est que les sources héraldiques ne disent pas *pourquoi* telle famille a choisi le cerf. On sait qu'il est présent, on connaît ses formes, mais le choix lui-même n'est presque jamais documenté explicitement. Il faut reconstruire le sens à partir du contexte culturel. De plus, les sources sur le cerf héraldique sont dispersées entre histoire de l'art, histoire de la chasse et héraldique — il n'existe pas de monographie consacrée spécifiquement au cerf dans les blasons, ce qui oblige à croiser des champs historiographiques distincts.
